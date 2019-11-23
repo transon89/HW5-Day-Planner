@@ -23,7 +23,7 @@ SO THAT I can manage my time effectively
 ## Business Context
 Poor time management can result in missed meetings and deadlines or create the appearance of unprofessionalism. A daily planner allows employees to see their day at a glance, schedule time effectively, and improve productivity.
 
-## inimum Requirements
+## Minimum Requirements
 
 
 Functional, deployed application.
