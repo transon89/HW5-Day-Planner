@@ -21,7 +21,7 @@ $(document).ready(function() {
     if (storedPlans !== null) {
       planTextArr = storedPlans;
     } else {
-t
+
       planTextArr = new Array(9);
       planTextArr[4] = "Picnic lunch outside";
     }
